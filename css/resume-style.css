@@ -176,10 +176,18 @@ img {
   font-style: italic;
 
 }
-#colcolright2 p[name=borderskills]{
+#colcolright2 div[name=borderskills]{
   border: 1px solid grey;
   float: left;
   background: #3d3c3b;
   width: 100%;
   height: 15px;
+  margin: 22px 0px 18px 0px;
+}
+#colcolright2 div[name=borderskills2]{
+  border: 0px solid grey;
+  float: right;
+  background: #ffffff;
+  height: 100%;
+  background-size: cover;
 }
