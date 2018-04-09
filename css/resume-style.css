@@ -68,13 +68,13 @@ img {
 }
 #columnleft {
     float: left;
-    width: 57%;
+    width: 55%;
     height: auto;
     background: #ededed;
 }
 #columnright {
     float: right;
-    width: 43%;
+    width: 45%;
     height: auto;
     background: #ffffff;
 }
