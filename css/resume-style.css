@@ -51,13 +51,13 @@ img {
 }
 #colcol p {
     font-size: 18px;
-    font-family: 'Athiti', sans-serif;;
+    font-family: 'Athiti', sans-serif;
     text-transform: uppercase;
     text-indent: 70px;
 }
 #colcol2 p ,#colcolright2 p{
     font-size: 18px;
-    font-family: 'Athiti', sans-serif;;
+    font-family: 'Athiti', sans-serif;
     text-transform: uppercase;
 }
 #row {
@@ -179,7 +179,7 @@ img {
 #colcol2 p[name=contact] {
     font-size: 12.5px;
     text-transform: uppercase;
-    font-family: 'Athiti', sans-serif;;
+    font-family: 'Athiti', sans-serif;
     color: #ffffff;
     text-indent: 0px;
     margin:0px 0px 0px 8px;
